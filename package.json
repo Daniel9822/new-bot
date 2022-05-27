@@ -21,7 +21,8 @@
     "url": "https://github.com/NuevaGeneracionALB/aleatory-md/issues"
   },
   "homepage": "https://github.com/NuevaGeneracionALB/aleatory-md#readme",
-  "dependencies": {
+ 
+ "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "qrcode-terminal": "^0.12.0",
@@ -74,8 +75,6 @@
     "util": "^0.12.4",
     "ws": "^8.5.0",
     "xfarr-api": "^1.0.3",
-    "yt-search": "^2.10.2",
-    "ytdl-core": "^4.10.1",
     "yts": "^2.0.0"
   }
 }
